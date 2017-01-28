@@ -1,7 +1,7 @@
 # Site settings
 title: Miguel Fernández
 description: My personal web page
-favicon: /assets/img/avatar.JPG
+#favicon: /assets/img/avatar.JPG
 baseurl: https://mfernam.github.io
 url: https://mfernam.github.io
 rss_url: /pages/atom.xml
@@ -23,5 +23,5 @@ author:
   github: mfernam
   linkedin: mfernam
   twitter: mfernam
-  gavatar: /resumecard/assets/img/avatar.JPG
+#  gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:

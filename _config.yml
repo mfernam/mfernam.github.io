@@ -25,6 +25,37 @@ author:
   twitter: mfernam
 #  gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
+  #  stackoverflow: 4582127
+  workHistory:
+    - work1:
+      company: Universidad de Alicante
+      location: Alicante, Spain
+      title: Técnico
+      started: 2014
+      duration: (2014 - Present)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+    
+  educationHistory:
+    - education1:
+      organization: Universidad de Alicante
+      location: Alicante, Spain
+      degree: Licenciado
+      major: Geografía
+      #started: 2005
+      duration: (19955 - 2002)
+      #description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      
+    - education2:
+      organization: Universitat Oberta de Catalunya
+      location: Barcelona, Spain
+      degree: Máster
+      major: Software Libre
+      #started: 2005
+      duration: (2010 - 2013)
+      #description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+
+
+
   languages:
     - language1:
       name: Spanish

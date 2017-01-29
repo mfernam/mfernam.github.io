@@ -46,11 +46,8 @@ author:
       name: PHP
       percentage: 100%
     - skill3:
-      name: CodeIgniter
-      percentage: 70%
-    - skill4:
       name: Java
       percentage: 70%
-    - skill5:
-      name: PostgreSQL
+    - skill4:
+      name: SQL
       percentage: 90%

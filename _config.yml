@@ -31,9 +31,9 @@ author:
       company: Universidad de Alicante
       location: Alicante, Spain
       title: Técnico
-      started: 2014
-      duration: (2014 - Present)
-      description: Proyecto Ramon Llull 3ª Fase: puesta en explotación la versión estable. Refactorización del código usando el patrón MVP, implementación de inyección de dependencias con el framework Spring. Control de usuarios de la aplicación mediante certificados electrónicos, actualización automática de la aplicación de escritorio. Instalación y mantenimiento de la web del proyecto con el CMS WordPress. Tareas de formación y soporte técnico a usuarios.
+      started: 2010
+      duration: (2010 - 2017)
+      description: Proyecto Ramon Llull. Refactorización del código usando el patrón MVP, implementación de inyección de dependencias con el framework Spring. Control de usuarios de la aplicación mediante certificados electrónicos, actualización automática de la aplicación de escritorio. Instalación y mantenimiento de la web del proyecto con el CMS WordPress. Tareas de formación y soporte técnico a usuarios.
     
   educationHistory:
     - education1:

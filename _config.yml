@@ -46,14 +46,22 @@ author:
       #description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
       
     - education2:
+      organization: Instituto Cibernos
+      location: Alicante, Spain
+      degree: Máster
+      major: Sistemas de Información Geográfica
+      #started: 2005
+      duration: (2003)
+      #description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+  
+    - education3:
       organization: Universitat Oberta de Catalunya
       location: Barcelona, Spain
       degree: Máster
       major: Software Libre
       #started: 2005
       duration: (2010 - 2013)
-      #description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-
+      #description: 
   languages:
     - language1:
       name: Spanish

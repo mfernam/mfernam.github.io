@@ -54,19 +54,20 @@ author:
       duration: (2010 - 2013)
       #description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
 
-
-
   languages:
     - language1:
       name: Spanish
       proficiency: Native
     - language2:
+      name: Valencian
+      proficiency: Professional
+    - language3:
       name: English
       proficiency: Intermediate
-    - language3:
+    - language4:
       name: French
       proficiency: Limit
-    - language4:
+    - language5:
       name: Portuguese
       proficiency: Limit
   programmingSkills:

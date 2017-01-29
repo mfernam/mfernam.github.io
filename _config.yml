@@ -33,7 +33,9 @@ author:
       title: Técnico
       started: 2014
       duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: “Proyecto Ramon Llull 3ª Fase: puesta en explotación la versión estable”. Refactorización del código usando el patrón MVP, implementación de inyección de dependencias con el framework Spring. Control de usuarios de la aplicación mediante certificados electrónicos, actualización automática de la aplicación de escritorio.
+Instalación y mantenimiento de la web del proyecto con el CMS WordPress.
+Tareas de formación y soporte técnico a usuarios.
     
   educationHistory:
     - education1:

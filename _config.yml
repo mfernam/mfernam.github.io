@@ -25,3 +25,32 @@ author:
   twitter: mfernam
 #  gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
+  languages:
+    - language1:
+      name: Spanish
+      proficiency: Native
+    - language2:
+      name: English
+      proficiency: Intermediate
+    - language3:
+      name: French
+      proficiency: Limit
+    - language4:
+      name: Portuguese
+      proficiency: Limit
+  programmingSkills:
+    - skill1:
+      name: C#
+      percentage: 100%
+    - skill2:
+      name: PHP
+      percentage: 100%
+    - skill3:
+      name: CodeIgniter
+      percentage: 70%
+    - skill4:
+      name: Java
+      percentage: 70%
+    - skill5:
+      name: PostgreSQL
+      percentage: 90%

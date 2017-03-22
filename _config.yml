@@ -81,13 +81,19 @@ author:
   programmingSkills:
     - skill1:
       name: C#
-      percentage: 100%
+      percentage: 80%
     - skill2:
       name: PHP
-      percentage: 100%
+      percentage: 80%
     - skill3:
       name: Java
-      percentage: 70%
+      percentage: 60%
     - skill4:
       name: SQL
-      percentage: 90%
+      percentage: 70%
+    - skill5:
+      name: CSS
+      percentage: 40%
+    - skill6:
+      name: Javascript
+      percentage: 70%
